@@ -1,0 +1,14 @@
+D:\project\ChatClientConsole\ChatClientConsole\bin\Debug\net6.0\ChatClientConsole.exe
+D:\project\ChatClientConsole\ChatClientConsole\bin\Debug\net6.0\ChatClientConsole.deps.json
+D:\project\ChatClientConsole\ChatClientConsole\bin\Debug\net6.0\ChatClientConsole.runtimeconfig.json
+D:\project\ChatClientConsole\ChatClientConsole\bin\Debug\net6.0\ChatClientConsole.dll
+D:\project\ChatClientConsole\ChatClientConsole\bin\Debug\net6.0\ChatClientConsole.pdb
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.AssemblyInfoInputs.cache
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.AssemblyInfo.cs
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.csproj.CoreCompileInputs.cache
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.dll
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\refint\ChatClientConsole.dll
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.pdb
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ChatClientConsole.genruntimeconfig.cache
+D:\project\ChatClientConsole\ChatClientConsole\obj\Debug\net6.0\ref\ChatClientConsole.dll
